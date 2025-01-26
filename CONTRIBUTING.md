@@ -47,3 +47,4 @@ Typical reasons for deleting a project:
 - README is not clear or not written in English
 
 Your contributions are always welcome! Thank you for your suggestions! :smiley:
+
